@@ -1,0 +1,64 @@
+.post-detail--header--smile-button {
+    margin: 0 4px;
+}
+
+.post-detail--header--smile-button div {
+    background: rgb(218, 85, 47) !important;
+    -webkit-box-align: center;
+    align-items: center;
+    display: flex;
+    flex-flow: row nowrap;
+    border-radius: 3px;
+    box-shadow: 0 0 2px rgba(0,0,0,0.1);
+    font-size: 14px;
+    overflow: hidden;
+}
+
+.post-detail--header--smile-button div a {
+    position: relative;
+    background: #da552f !important;
+    color: white;
+    cursor: pointer;
+    font-weight: 600;
+    letter-spacing: .5px;
+    text-transform: uppercase;
+    padding: 0 15px;
+    white-space: nowrap;
+    flex: 1;
+    -webkit-box-flex: 1;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    display: flex;
+    height: inherit;
+}
+
+.post-detail--header--smile-button div a:hover {
+    background: #DE6644 !important;
+}
+
+.post-detail--header--smile-button div a img {
+    display: block;
+    margin-top: -1px;
+    height: 24px;
+    width: 24px;
+}
+
+.post-detail--header--smile-button span {
+    display: block;
+}
+
+@media screen and (min-width: 769px) {
+    .post-detail--header--smile-button div {
+        height: 44px;
+        min-width: 115px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .post-detail--header--smile-button div {
+        height: 40px;
+        min-width: 110px;
+    }
+}
