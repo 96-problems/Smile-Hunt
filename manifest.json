@@ -27,7 +27,7 @@
       "run_at": "document_end"
     },
     {
-      "matches": ["http://www.96problems.com/smile-hunt"],
+      "matches": ["http://www.96problems.com/smile-hunt/"],
       "js": ["js/installCheck.js"],
       "run_at": "document_end"
     }
