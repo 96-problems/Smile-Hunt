@@ -8,4 +8,5 @@ Using smile.amazon.com 0.5% of your purchase goes to charity. Learn about it in 
 [![Alt text for your video](https://i.ytimg.com/vi_webp/fnwB7UcsG0A/default.webp)](https://www.youtube.com/watch?v=fnwB7UcsG0A)
 
 It's easy to forget to smile, especially when rushing to be first to hunt a book.
+
 With Smile Hunt a "…With a 😄" button is added that will redirect you to the smile version of the book.
